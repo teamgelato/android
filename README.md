@@ -1,0 +1,4 @@
+manifest
+========
+
+The LGICS Manifest
