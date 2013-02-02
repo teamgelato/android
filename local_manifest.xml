@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="device/lge/msm7x27-common" name="teamgelato/cm_device_lge_msm7x27-common" remote="github" revision="jellybean" />
-    <project path="device/lge/vm701" name="teamgelato/cm_device_lge_vm701" remote="github" revision="jellybean" />
-    <project path="kernel/lge/msm7x27" name="teamgelato/GingerKernel-VM701-2.6.35" remote="github" revision="jellybean" />
-    <project path="vendor/lge" name="teamgelato/cm_vendor_lge" remote="github" revision="jellybean" />
-    <project path="vendor/qcom/msm7x27" name="teamgelato/vendor_qcom_msm7x27" remote="github" revision="jellybean" />
-    <project path="device/qcom/msm7x27" name="teamgelato/device_qcom_msm7x27" remote="github" revision="jellybean" />
+	<remote name="teamgelato"
+		fetch="git@github.com:teamgelato/" />
+    <project path="device/lge/msm7x27-common" name="teamgelato/device_lge_msm7x27-common" remote="github" revision="cm-10.1" />
+    <project path="device/lge/vm701" name="teamgelato/device_lge_vm701" remote="github" revision="cm10.1" />
+    <project path="kernel/lge/msm7x27" name="teamgelato/GingerKernel-VM701-2.6.35" remote="github" revision="master" />
+    <project path="vendor/lge" name="teamgelato/vendor_lge" remote="github" revision="cm-10.1" />
+    <project path="vendor/qcom/msm7x27" name="teamgelato/vendor_qcom_msm7x27" remote="github" revision="cm-10.1" />
+    <project path="device/qcom/msm7x27" name="teamgelato/device_qcom_msm7x27" remote="github" revision="cm-10.1" />
+    <project path="localmanifest" name="teamgelato/manifest" remote="github" revision="master" />
 </manifest>
