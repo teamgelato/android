@@ -22,7 +22,7 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/lge/gelato" name="teamgelato/device_lge_gelato" revision="master" />
+  <project path="device/lge/gelato" name="qnhoang81/device_lge_gelato" revision="CM7" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
@@ -218,7 +218,7 @@
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
 
   <project path="vendor/cyanogen" name="teamgelato/android_vendor_cyanogen" />
-  <project path="vendor/lge/gelato" name="teamgelato/vendor_lge_gelato" revision="master" />
+  <project path="vendor/lge/gelato" name="qnhoang81/vendor_lge_gelato" revision="master" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
