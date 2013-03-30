@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-    <project path="device/lge/msm7x27-common" name="lgics/android_device_lge_msm7x27-common" remote="github" revision="cm-10.1" />
-    <project path="device/lge/p690" name="teamgelato/android_device_lge_vm701" remote="github" revision="cm-10.1" />
-    <project path="kernel/lge/msm7x27" name="teamgelato/GingerKernel-VM701-2.6.35" remote="github" revision="master" />
-    <project path="vendor/lge" name="lgics/cm_vendor_lge" remote="github" revision="cm-10.1" />
-    <project path="vendor/qcom/msm7x27" name="androidarmv6/android_vendor_qcom_msm7x27" remote="github" revision="cm-10.1" />
-    <project path="device/qcom/msm7x27" name="lgics/android_device_qcom_msm7x27" remote="github" revision="cm-10.1" />
-</manifest>
